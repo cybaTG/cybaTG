@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cyril and I'm a software developer diving into web, cloud and open-source technologies.</h2>
+<h2 align="left">Hi 👋! My name is Cyril. I'm a software developer, diving into web, cloud and open-source technologies.</h2>
 
 ###
 
