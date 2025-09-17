@@ -22,14 +22,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AI Enthusiast](https://img.shields.io/badge/AI-enthusiast-blue?style=for-the-badge&logo=OpenAI&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybaTG&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybaTG&layout=compact&theme=radical)  
 
 ---
 
